@@ -1,4 +1,4 @@
 rule Hello:	
 	output: 'output.txt'
 	shell:
-		'echo hello world > {output}'
+		'echASDASDo hello world > {output}'
