@@ -1,0 +1,4 @@
+rule hello:
+    output: 'hello.txt'
+    shell: 'touch  {output}'   
+
